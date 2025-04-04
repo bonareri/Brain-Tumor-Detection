@@ -51,9 +51,9 @@ The CNN model consists of:
 
 ## Evaluation
 - The model was evaluated using **confusion matrix, accuracy, precision, and recall**.
-- Final accuracy achieved: **X%** (Replace with actual accuracy)
 
 **Confusion Matrix:**
+
 ![image](https://github.com/user-attachments/assets/46bb2488-1a52-424b-925d-f9e2eecc9899)
 
 
