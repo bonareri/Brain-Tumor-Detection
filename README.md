@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection using Deep Learning  
 
-## 📌 Project Overview  
+## Project Overview  
 This project aims to detect brain tumors using a Convolutional Neural Network (CNN) model trained on MRI scan images. The model classifies images into tumor and non-tumor categories, improving diagnosis accuracy through deep learning techniques.
 
 ## Dataset
